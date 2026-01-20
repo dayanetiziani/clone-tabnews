@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto Inicial - curso.dev",
+  "homepage": "https://github.com/dayanetiziani/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/dayanetiziani/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayanetiziani/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "Dayane Tiziani",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
